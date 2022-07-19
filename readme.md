@@ -1,0 +1,11 @@
+### Todo
+- [ ] covid outbreak by city - Boyu
+- [ ] specify market leading vs. local media - Boyie
+- [ ] specify keywords intensity - Vivian
+	- covid
+	- coronavirus
+	- virus
+	- SARS
+	- wuhan
+	- pneumonia
+- [ ]
