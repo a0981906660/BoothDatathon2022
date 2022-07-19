@@ -7,10 +7,10 @@ library(feather)
 print(getwd())
 
 # load data
-df <- read_csv("./data/ProquestNewsArticles/ProquestNewsMetaData.csv")[, -1]
+df <- read_csv("./data/raw/ProquestNewsArticles/ProquestNewsMetaData.csv")[, -1]
 
 # load wiki major media data
-mediaTable <- read_csv("./data/ProquestNewsArticles/major_media_list.csv")
+mediaTable <- read_csv("./data/raw/ProquestNewsArticles/major_media_list.csv")
 
 # Merge tables
 df <- df %>% 
